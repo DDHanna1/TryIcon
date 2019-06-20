@@ -62,6 +62,7 @@ namespace TryIcon
         {
             this.ntiTray.Visible = false;
             Application.ExitThread();
+
         }
     }
 }
